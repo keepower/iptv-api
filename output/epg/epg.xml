@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250919104110 +0800">
+<tv date="20250921103850 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -29247,4 +29247,49 @@
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
 	</channel>
+	<channel id="经典电影">
+		<display-name lang="zh">经典电影</display-name>
+	</channel>
+	<programme channel="经典电影" start="20250921000000 +0800" stop="20250921000200 +0800">
+		<title lang="zh">侏罗纪世界</title>
+	</programme>
+	<programme channel="经典电影" start="20250921000200 +0800" stop="20250921015800 +0800">
+		<title lang="zh">天地大冲撞</title>
+	</programme>
+	<programme channel="经典电影" start="20250921015800 +0800" stop="20250921040000 +0800">
+		<title lang="zh">侏罗纪世界</title>
+	</programme>
+	<programme channel="经典电影" start="20250921040000 +0800" stop="20250921055000 +0800">
+		<title lang="zh">禁止的真相</title>
+	</programme>
+	<programme channel="经典电影" start="20250921055000 +0800" stop="20250921074800 +0800">
+		<title lang="zh">重振球风</title>
+	</programme>
+	<programme channel="经典电影" start="20250921074800 +0800" stop="20250921093800 +0800">
+		<title lang="zh">禁止的真相</title>
+	</programme>
+	<programme channel="经典电影" start="20250921093800 +0800" stop="20250921113700 +0800">
+		<title lang="zh">重振球风</title>
+	</programme>
+	<programme channel="经典电影" start="20250921113700 +0800" stop="20250921132700 +0800">
+		<title lang="zh">禁止的真相</title>
+	</programme>
+	<programme channel="经典电影" start="20250921132700 +0800" stop="20250921152500 +0800">
+		<title lang="zh">重振球风</title>
+	</programme>
+	<programme channel="经典电影" start="20250921152500 +0800" stop="20250921171500 +0800">
+		<title lang="zh">禁止的真相</title>
+	</programme>
+	<programme channel="经典电影" start="20250921171500 +0800" stop="20250921191400 +0800">
+		<title lang="zh">重振球风</title>
+	</programme>
+	<programme channel="经典电影" start="20250921191400 +0800" stop="20250921210400 +0800">
+		<title lang="zh">禁止的真相</title>
+	</programme>
+	<programme channel="经典电影" start="20250921210400 +0800" stop="20250921230200 +0800">
+		<title lang="zh">重振球风</title>
+	</programme>
+	<programme channel="经典电影" start="20250921230200 +0800" stop="20250921235900 +0800">
+		<title lang="zh">禁止的真相</title>
+	</programme>
 </tv>
